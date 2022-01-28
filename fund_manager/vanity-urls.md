@@ -57,6 +57,22 @@ Suggested Use Cases:
 
 ## Current Problems
 
+There are several current problems with the Vanity URL implementation.
+
+### Bad Links
+
+When users request Vanity URLs they often have no training on SEO and the web. This results in requests with less 
+than ideal URLs, e.g. https://giving.cu.edu/TheFundIWantToSee. It is generally bad practice to:
+
+- use capital letters in the URL
+- not separate words with dashes
+- use 
+
+The improved URL would be: https://giving.cu.edu/see-this-fund. It doesn't include capital letters, uses dashes to 
+delineate words, and drops extraneous words not relevant to semantically describing content at the URL.
+
+### Routing 
+
 Vanity URLs create an SEO and routing problem for the Giving website. Every other route on the Giving site is 
 system-generated or something a user puts into a menu. Each section of the website has rules for what can go inside 
 that path.
@@ -73,6 +89,8 @@ system-generated pages. If the user instead requested "https://giveto.cu.edu/cam
 conflict with "https://giving.cu.edu/campaigns/the-best-one".
 
 For these reasons, it is recommended to use a separate (sub)domain name for a link shortener service. 
+
+### Outdated 
 
 Outdated, unused Vanity URLs also become a problem, and most of them are only useful for a limited time during a 
 targeted campaign time period.
@@ -98,6 +116,8 @@ Types of donation locations accepted:
 
 The Vanity URL will consist of four parts:
 
+- **Type:** This is akin to a "tags" field and used to group the URLs into categories. It will likely consist of where 
+  the link is redirecting to.
 - **Source:** The Short URL, e.g. https://giving.cu.edu/fund-me
 - **Destination:** The URL where users will be redirected to, e.g. https://giving.cu.edu/fund/a-rather-long-fund-name
 - **Owner:** The email of the requester. This is used for communication about the status of the Vanity URL
