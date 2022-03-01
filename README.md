@@ -9,7 +9,7 @@ First off: who are you specifically? The Giving site has a few groups of distinc
 into sections by types of users. While your user 
 
 Roles:
-- [Fund Manager](/fund_manager/README.md) - Fund Managers control all aspects of how funds are marketed on the 
+- [Development Assistant](/development_assistant/README.md) - Development Assistants control all aspects of how funds are marketed on the 
   website including creating Landing Pages, Vanity URLs, and Fund Page marketing content. 
 - [Gift Processor](/gift_processor/README.md) - Gift Processors control all the aspects of how donations are 
   processed on the website including editing Order statuses and downloading Order Processing Reports.
