@@ -9,12 +9,12 @@ First off: who are you specifically? The Giving site has a few groups of distinc
 into sections by types of users. While your user 
 
 Roles:
-- [Development Assistant](/development_assistant/README.md) - Development Assistants control all aspects of how funds are marketed on the 
-  website including creating Landing Pages, Vanity URLs, and Fund Page marketing content. 
+- [Web Requestor](/web_requestor/README.md) - Web requestors control all aspects of how funds are 
+  marketed on the website including creating Landing Pages, Vanity URLs, and Fund Page marketing content. They 
+  typically belong to campus partner Advancement groups. 
 - [Gift Processor](/gift_processor/README.md) - Gift Processors control all the aspects of how donations are 
   processed on the website including editing Order statuses and downloading Order Processing Reports.
-- [Content Editor]() - Content editors control all the content for their advancement group whether they are under 
-  the CU Foundation, Central Advancement, or other university departments.
+- [Content Editor]() - Content editors control non-fund-related content for the CU Foundation and Central Advancement
 
 ## How Do I Gain Access?
 

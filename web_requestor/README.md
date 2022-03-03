@@ -1,7 +1,7 @@
-# Fund Manager User Role
+# Web Requestor User Role
 
-Fund Managers control all aspects of how funds are marketed on the website including creating Landing Pages, Vanity 
-URLs, and Fund Page marketing content. 
+Web Requestors control all aspects of how funds are marketed on the website including creating Landing Pages,
+Vanity URLs, and Fund Page marketing content. 
 
 ## Login
 
