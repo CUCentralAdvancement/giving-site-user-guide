@@ -23,3 +23,5 @@ Roles:
 
 1. Create a user on the website by logging into it: https://giving.cu.edu/user
 2. Send a WorkFront request to...link to form.
+3. You should sign some form that you agree to abide by the code of conduct.
+4. You need to take a training...
