@@ -12,3 +12,4 @@ Types of content:
 - Fund Pages
 - [Vanity URLs](vanity-urls.md) - Vanity URLs allow a shorter, more human-readable URL to redirect to another page 
   on the Giving website or another service Central Advancement uses. 
+
