@@ -1,15 +1,15 @@
 # Giving Site User Guide
 
 Hello Giving site user! We are so excited you're here learning about the features of the Giving website, and this 
-guide aims to provide you with all the insturctions you'll ever need to navigate and use the application.
+guide aims to provide you with all the instructions you'll ever need to navigate and use the application.
 
 ## Who Are You?
 
-First off: who are you specifically? The Giving site has a few groups of distinct users so we've separated the guide
+First off: who are you specifically? The Giving site has a few groups of distinct users, so we've separated the guide
 into sections by types of users. While your user 
 
 Roles:
-- [Web Requestor](/web_requestor/README.md) - Web requestors control all aspects of how funds are 
+- [Web Requester](/web_requester/README.md) - Web requesters control all aspects of how funds are 
   marketed on the website including creating Landing Pages, Vanity URLs, and Fund Page marketing content. They 
   typically belong to campus partner Advancement groups. 
 - [Gift Processor](/gift_processor/README.md) - Gift Processors control all the aspects of how donations are 

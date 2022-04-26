@@ -1,6 +1,6 @@
-# Web Requestor User Role
+# Web Requester User Role
 
-Web Requestors control all aspects of how funds are marketed on the website including creating Landing Pages,
+Web Requesters control all aspects of how funds are marketed on the website including creating Landing Pages,
 Vanity URLs, and Fund Page marketing content. 
 
 ## Login
