@@ -28,7 +28,6 @@ read this.
   Fund Page Content section. 
 - **Marketing Content Expiration** (Optional) - The "Schedule additional content?" from the Optional Additional Fund 
   Page Content section.
-
 - **Allocation Code** - The "Allocation Code" from the Fund Details section. It always must start with a zero.
 - **Active** - This should be checked to make the fund available to the public.
 
