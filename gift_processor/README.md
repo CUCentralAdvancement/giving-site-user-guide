@@ -30,9 +30,11 @@ eCheck orders are processed differently than credit card orders since they have 
 that takes much longer than a credit card order.
 
 1. Go to https://giving.cu.edu/admin/staff-dashboard/reports/echeck-processing-report
-2. ...I don't really know what happens here...
+2. ...I don't really know what happens here...so the rest of this section is notes...
 
-There is a detailed eCheck process report from June 2020: [eCheck Processes](echeck-process-06-2020.pdf)
+- There is a detailed eCheck process report from June 2020: [eCheck Processes](echeck-process-06-2020.pdf)
+- Locked documentation is still the best: 
+https://advwiki.cu.edu/pages/viewpage.action?spaceKey=digital&title=eCheck+Payments 
 
 Notes on process report...from the perspective of a developer for now...will refine later to make sense for a gift 
 processor.
