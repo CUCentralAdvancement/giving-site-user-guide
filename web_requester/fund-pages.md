@@ -55,3 +55,5 @@ If the submission requests a Vanity URL, then you should:
 5. Enter the Vanity URL path in the "From" field on the next screen.
 6. Save to add the redirect.
 7. Check the Vanity URL to see it redirects to the fund page.
+
+You can read more about Vanity URLs in [the main Vanity URL documentation section](vanity-urls.md).
