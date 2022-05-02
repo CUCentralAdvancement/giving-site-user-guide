@@ -8,8 +8,8 @@ statuses and downloading Order Processing Reports.
 The Gift Processor has three daily tasks they need to complete:
 
 - [Credit Card Processing Report](#credit-card-processing-report) - Any gifts made via credit cards
-- [eCheck Processing Report](#echeck-processing-report) - Any gifts made via credit cards
-- [Recurring Transactions Processing](#recurring-orders-processing) - 
+- [eCheck Processing Report](#echeck-processing-report) - Any gifts made via eCheck
+- [Recurring Transactions Processing](#recurring-orders-processing) - Gifts that recurr on a schedule.
 
 ### Credit Card Processing Report
 
