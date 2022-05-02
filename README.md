@@ -14,7 +14,9 @@ Roles:
   typically belong to campus partner Advancement groups. 
 - [Gift Processor](/gift_processor/README.md) - Gift Processors control all the aspects of how donations are 
   processed on the website including editing Order statuses and downloading Order Processing Reports.
-- [Content Editor]() - Content editors control non-fund-related content for the CU Foundation and Central Advancement
+- [Content Editor](/content_editor/README.md) - Content editors control non-fund-related content for the CU Foundation and 
+  Central 
+  Advancement
 
 ## How Do I Gain Access?
 
