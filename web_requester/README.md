@@ -8,10 +8,14 @@ Vanity URLs, and Fund Page marketing content.
 After you log into the website, you will be taken to the content area...need to check if this is true.
 
 Types of content:
-- Landing Pages
-- [Fund Pages](fund-pages.md) - Funds users can donate to.
+- [Landing Pages](landing-pages.md) - Landing Pages allow
+- [Fund Pages](fund-pages.md) - Funds users can donate to. You can also set the suggested amount and recurring 
+  options when a user visits the page.
 - [Vanity URLs](vanity-urls.md) - Vanity URLs allow a shorter, more human-readable URL to redirect to another page 
   on the Giving website or another service Central Advancement uses. 
+
+Other Features:
+- [Appeal Codes](#appeal-codes)
 
 ## Video Embeds
 
@@ -26,4 +30,9 @@ Types of content:
     </div>
 </div>
 ```
+
+## Appeal Codes
+
+You can track a user via something called an appeal code...
+
 
