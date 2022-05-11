@@ -13,7 +13,20 @@
    1. If no code found, tell the requester the fund is not in Advance...should also send them some email address or 
       link to contact. Resume step one once the requester confirms the fund is in Advance.
    1. If code found, proceed.
-6. Copy information into a new fund: https://giving.cu.edu/node/add/donation
+6. Copy information into a new fund: https://giving.cu.edu/node/add/donation and follow [fund field instructions](#fund-fields).
+
+## Removing a Fund
+
+To remove a fund:
+
+1. Go to the WorkFront submission.
+2. Check and see that the user got permission from the appropriate staff members.
+3. Go to the link in "Current URL on giving.cu.edu" in the Issue Details.
+4. Click "Edit" once logged in.
+5. Scroll down to the "Active" checkbox and uncheck it.
+6. Ignore the redirect URL field. Once deactivated, users will be redirected to the fund search page with the campus 
+   and interest of the deactivated fund selected.
+7. Reply to the Workfront issue and let them know users will be redirected.
 
 ## Fund Fields
 
