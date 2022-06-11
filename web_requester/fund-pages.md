@@ -44,6 +44,10 @@ read this.
 - **Allocation Code** - The "Allocation Code" from the Fund Details section. It always must start with a zero.
 - **Active** - This should be checked to make the fund available to the public.
 
+### Allocation Code Breakdown
+
+<img width="651" alt="Screen Shot 2022-06-11 at 3 01 49 PM" src="https://user-images.githubusercontent.com/3640707/173201519-7104e8e4-69b6-4488-8462-9a615f263f09.png">
+
 ### Product Catalog Section
 
 These fields are at the bottom of the screen in a tabbed interface.
