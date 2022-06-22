@@ -1,3 +1,11 @@
+---
+layout: default
+title: Giving Site User Guide
+nav_order: 1
+description: "This guide aims to provide you with all the instructions you'll ever need to navigate the Giving website."
+permalink: /
+---
+
 # Giving Site User Guide
 
 Hello Giving site user! We are so excited you're here learning about the features of the Giving website, and this 
