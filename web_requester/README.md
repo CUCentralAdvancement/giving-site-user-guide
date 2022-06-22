@@ -3,7 +3,7 @@ layout: default
 title: Web Requester User Role
 nav_order: 2
 has_children: true
-permalink: /docs/ui-components
+permalink: /web-requester
 ---
 
 # Web Requester User Role
