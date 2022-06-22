@@ -1,3 +1,11 @@
+---
+layout: default
+title: Gift Processor User Role
+nav_order: 2
+has_children: true
+permalink: /gift-processor
+---
+
 # Gift Processor User Role
 
 Gift Processors (GP) control all the aspects of how donations are processed on the website including editing Order 
