@@ -1,3 +1,10 @@
+---
+layout: default
+title: Vanity URLs
+parent: Web Requester User Role
+nav_order: 1
+---
+
 # Vanity URLs
 
 A Vanity URL (VURL) allows a shorter, more human-readable URL to redirect to another page on the Giving website or
