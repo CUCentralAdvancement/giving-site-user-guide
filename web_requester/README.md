@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Web Requester User Role
+title: Web Requesters
 nav_order: 2
 has_children: true
-permalink: /web-requester
+permalink: /web-requesters
 ---
 
 # Web Requester User Role
