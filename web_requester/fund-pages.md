@@ -1,3 +1,10 @@
+---
+layout: default
+title: Fund Pages
+parent: Web Requester User Role
+nav_order: 1
+---
+
 # Fund Pages
 
 ## Adding a Fund
