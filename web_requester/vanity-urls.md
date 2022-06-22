@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Vanity URLs
-parent: Web Requester User Role
+parent: Web Requesters
 nav_order: 2
 ---
 
