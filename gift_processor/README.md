@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Gift Processor User Role
+title: Gift Processors
 nav_order: 3
 has_children: true
-permalink: /gift-processor
+permalink: /gift-processors
 ---
 
 # Gift Processor User Role
