@@ -53,6 +53,8 @@ read this.
 
 ### Allocation Code Breakdown
 
+The allocation codes can be broken down into a pattern that tells the campus and endowment status of each fund.
+
 <img width="651" alt="Screen Shot 2022-06-11 at 3 01 49 PM" src="https://user-images.githubusercontent.com/3640707/173201519-7104e8e4-69b6-4488-8462-9a615f263f09.png">
 
 ### Product Catalog Section
