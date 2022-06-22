@@ -11,6 +11,8 @@ permalink: /
 Hello Giving site user! We are so excited you're here learning about the features of the Giving website, and this 
 guide aims to provide you with all the instructions you'll ever need to navigate and use the application.
 
+Live site: https://cucentraladvancement.github.io/giving-site-user-guide
+
 ## Who Are You?
 
 First off: who are you specifically? The Giving site has a few groups of distinct users, so we've separated the guide
