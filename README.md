@@ -12,6 +12,7 @@ Hello Giving site user! We are so excited you're here learning about the feature
 guide aims to provide you with all the instructions you'll ever need to navigate and use the application.
 
 Live site: https://cucentraladvancement.github.io/giving-site-user-guide
+Theme documentation: https://just-the-docs.github.io/just-the-docs/
 
 ## Who Are You?
 
