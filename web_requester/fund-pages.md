@@ -11,16 +11,10 @@ nav_order: 1
 
 1. [Go to WorkFront](https://universityofcolorado.my.workfront.com/requests/content-dashboard__5cc1f24e003cc55938884ff5fdbf4220), 
   view the submission, and copy the allocation code.
-2. Search for allocation code in [All Funds Lookup](https://giving.cu.edu/all-funds-lookup?status=All&field_fund_active_value=All&field_fund_allocation_code_value=&combine=)
-     1. If found, then make sure the fund is active, and respond to requester that the fund is already on the site 
-        with the fund's URL.
-     2. If not found, proceed.
-4. Download the CSV file from https://giving.cu.edu/admin/config/services/fund-sync
-5. Check for the allocation code in the CSV output `cmd + f`.
-   1. If no code found, tell the requester the fund is not in Advance...should also send them some email address or 
-      link to contact. Resume step one once the requester confirms the fund is in Advance.
-   1. If code found, proceed.
-6. Copy information into a new fund: https://giving.cu.edu/node/add/donation and follow [fund field instructions](#fund-fields).
+2. Go to https://giving.cu.edu/node/add/donation, fill in the "Allocation Code" field, and use the "Check Allocation Code is valid" 
+  button to see if you can add the fund.
+    1. If you get an error message then follow the prompts and report it back in the Workfront issue.
+4. If no errors, copy request information into a new fund following [fund field instructions](#fund-fields).
 
 ## Removing a Fund
 
