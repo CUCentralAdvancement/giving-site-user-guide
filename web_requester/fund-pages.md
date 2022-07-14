@@ -15,6 +15,7 @@ nav_order: 1
   button to see if you can add the fund.
     1. If you get an error message then follow the prompts and report it back in the Workfront issue.
 4. If no errors, copy request information into a new fund following [fund field instructions](#fund-fields).
+5. If requester asks to "hide the fund" or any other special instructions, look through the [special snowflakes](#special-snowflakes) section.
 
 ## Removing a Fund
 
@@ -77,3 +78,9 @@ If the submission requests a Vanity URL, then you should:
 7. Check the Vanity URL to see it redirects to the fund page.
 
 You can read more about Vanity URLs in [the main Vanity URL documentation section](vanity-urls.md).
+
+## Special Snowflakes
+
+Sometimes, the requester will ask for additional things than just adding a fund. 
+
+- **Hide a fund** - If they ask to hide a fund from the fund search add an "Additional Keyword" of "HIDE" from the autocomplete field. This will exclude the fund from the fund search. You can always check the fund search to make sure that the fund you added does not show up.
