@@ -1,3 +1,10 @@
+---
+layout: default
+title: Vanity URLs
+parent: Content Editors
+nav_order: 2
+---
+
 # Vanity URLs
 
 You can read all about the purpose of Vanity URLs in the web requester documentation at 

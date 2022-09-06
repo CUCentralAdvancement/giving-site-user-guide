@@ -1,3 +1,11 @@
+---
+layout: default
+title: Fund Pages
+parent: Content Editors
+nav_order: 1
+---
+
+
 # Fund Pages
 
 Funds are requested by campus partners via Workfront request forms. You can read about that process 
