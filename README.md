@@ -1,8 +1,19 @@
+---
+layout: default
+title: Giving Site User Guide
+nav_order: 1
+description: "This guide aims to provide you with all the instructions you'll ever need to navigate the Giving website."
+permalink: /
+---
+
 # Giving Site User Guide
 
 Hello Giving site user! We are so excited you're here learning about the features of the Giving 
 website, and this guide aims to provide you with all the instructions you'll ever need to navigate 
 and use the application.
+
+- Live site: [https://cucentraladvancement.github.io/giving-site-user-guide](https://cucentraladvancement.github.io/giving-site-user-guide)
+- Theme documentation: [https://just-the-docs.github.io/just-the-docs](https://just-the-docs.github.io/just-the-docs)
 
 ## Who Are You?
 

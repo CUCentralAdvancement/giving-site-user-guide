@@ -1,3 +1,11 @@
+---
+layout: default
+title: Web Requesters
+nav_order: 2
+has_children: true
+permalink: /web-requesters
+---
+
 # Web Requester User Role
 
 Web Requesters control all aspects of how funds are marketed on the website including creating Landing Pages,
