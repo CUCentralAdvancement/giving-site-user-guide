@@ -43,4 +43,4 @@ Other Features:
 
 You can track a user via something called an appeal code...
 
-
+notes on feature: https://github.com/CUCentralAdvancement/giving-frontend/issues/571
