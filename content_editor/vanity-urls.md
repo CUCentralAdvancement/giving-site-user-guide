@@ -28,8 +28,12 @@ content type. VURLs are just hyped up Redirects with a few extra fields to denot
 2. Think of a good descriptive name for the VURL. This will be the title of the VURL.
 3. For the Description field, add a link to the WF request and any notes. For example, you might make 
    a note that the VURL should expire at a certain time or relates to another VURL.
-4. Enter the "" from WF into the "Vanity URL Path" field.
-5. Enter then "" from WF into the "Vanity URL Destination" field.
+4. Enter the "Vanity URL" from WF into the "Vanity URL Path" field. Make sure to only include the 
+   path and not the domain, e.g. for "https://giving.cu.edu/this-is-a-vurl", you would only enter 
+   "/this-is-a-vurl" for the path.
+5. Enter the "Web Fund URL" from WF into the "Vanity URL Destination" field. If it is an internal 
+   link, you will only use a path, but if it is an external link, then you will use the full URL 
+   provided.
 6. Select if the VURL is internal or external. Internal means any link still pointing to the giving.
    cu.edu domain. External means any link pointing to a different domain.
 7. Leave the expiration field as-is. VURLs are not being expired at this time.

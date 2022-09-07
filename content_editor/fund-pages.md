@@ -5,11 +5,10 @@ parent: Content Editors
 nav_order: 1
 ---
 
-
 # Fund Pages
 
 Funds are requested by campus partners via Workfront request forms. You can read about that process 
-and considerations in [the Web Requester documentation on funds](web_requester/fund-pages.md).
+and considerations in [the Web Requester documentation on funds](../web_requester/fund-pages.md).
 
 For this documentation, we will only go over the process of adding/editing a fund on the Giving site 
 once a WF request comes in to add the fund to the site.
