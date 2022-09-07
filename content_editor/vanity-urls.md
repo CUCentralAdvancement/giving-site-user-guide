@@ -22,10 +22,16 @@ https://universityofcolorado.my.workfront.com/requests?activeTab=tab-new-helpReq
 Once you get a request to add a VURL, you can enter it on the Giving site by using the Vanity URL 
 content type. VURLs are just hyped up Redirects with a few extra fields to denote ownership.
 
+Creating a VURL does create a "node" in Drupal, which means it does have an accessible page but users 
+should not find it as it is a "system path" and not indexed or in a menu anywhere. In the future, 
+users probably shouldn't be able to see the node page and be redirected somewhere else.
+
 ### Adding/Editing a VURL
 
 1. Go to https://giving.cu.edu/node/add/vanity-url.
-2. Think of a good descriptive name for the VURL. This will be the title of the VURL.
+2. Think of a good descriptive name for the VURL. This will be the title of the VURL. If the VURL 
+   points to Community Funded, then start the title with "CF - " so we can easily find them vs. other 
+   URLs.
 3. For the Description field, add a link to the WF request and any notes. For example, you might make 
    a note that the VURL should expire at a certain time or relates to another VURL.
 4. Enter the "Vanity URL" from WF into the "Vanity URL Path" field. Make sure to only include the 
