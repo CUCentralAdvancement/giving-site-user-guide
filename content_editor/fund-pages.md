@@ -2,7 +2,7 @@
 layout: default
 title: Fund Pages
 parent: Content Editors
-nav_order: 1
+nav_order: 2
 ---
 
 # Fund Pages
