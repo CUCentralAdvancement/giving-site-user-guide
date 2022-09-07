@@ -8,7 +8,7 @@ nav_order: 2
 # Vanity URLs
 
 You can read all about the purpose of Vanity URLs in the web requester documentation at 
-[web_requester/vanity-urls.md](/web_requester/vanity-urls.md).
+[web_requester/vanity-urls.md](../web_requester/vanity-urls.md).
 
 For this documentation, we will only go over how to add, edit, and remove a VURL from the Giving site.
 
