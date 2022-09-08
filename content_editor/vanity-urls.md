@@ -2,7 +2,7 @@
 layout: default
 title: Vanity URLs
 parent: Content Editors
-nav_order: 2
+nav_order: 3
 ---
 
 # Vanity URLs

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Fund Pages
+title: FAQ
 parent: Content Editors
 nav_order: 2
 ---

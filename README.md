@@ -35,6 +35,6 @@ Roles:
 @todo This should be as easy as one step to fill out a WorkFront request form but would need the 
 [user_external_invite](https://www.drupal.org/project/user_external_invite) module to make that happen.
 
-1. Create a user on the website by logging into it: https://giving.cu.edu/user
+1. Create a user on the website by logging into it [using the "CU Staff" link.](https://giving.cu.edu/saml_login?destination=user)
 2. Send a note to giving@cu.edu about your need for access and the role you need to be assigned to.
 3. Work with the Digital Marketing team to fully set up your account.
