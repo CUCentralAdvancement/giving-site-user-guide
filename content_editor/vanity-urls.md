@@ -56,3 +56,12 @@ pulled in for reporting purposes. They mimic the same data stored on regular red
 
 To note, the values displayed are cached somewhat, so you won't see the most up-to-date values unless 
 you clear the site's cache.
+
+### Expiring a VURL
+
+There is a paused cron job that will expire VURLs. It is paused because we don't have a good way to 
+notify owners or a list of VURLs that should be expired.
+
+The disabled cron job can be re-enabled by going to: https://giving.cu.edu/admin/config/system/cron/settings
+and unchecking "cug_vanity_url_cron". However, the cron job code should be tested again before 
+turning it back on.
